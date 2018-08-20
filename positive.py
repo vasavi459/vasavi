@@ -1,7 +1,7 @@
-a=5
-if(a>0):
+b=5
+if(b>0):
        print('given num is positive')
-elif('x==0'):
+elif('b==0'):
       print('given num is zero')
 else:
        print('given num is negative')
