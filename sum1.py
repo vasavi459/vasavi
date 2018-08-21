@@ -1,4 +1,4 @@
-num1 = int(input("Enter the value of n: "))
+num1 = int(input(" "))
 v=num1
 sum = 0
 if num1 <= 0: 
