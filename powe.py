@@ -1,4 +1,4 @@
-o=int(input())
-z=int(input())
+a=int(input(''))
+z=int(input(''))
 import math
-print math.pow(o,z)
+print math.pow(a,z)
