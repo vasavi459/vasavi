@@ -1,9 +1,9 @@
-m=int(input('enter a num'))
+q=int(input('enter a num'))
 n=int(input('enter a num'))
 o=int(input('enter a num'))
-if(m>n):
-        if(m>0):
-           print('m is greater')
+if(q>n):
+        if(q>0):
+           print('q is greater')
         else:
            print('o is greater')
 else:
